@@ -11,7 +11,7 @@ hands-on projects and progressively more complex implementations.
 ## Progress
 
 - [x] Digital logic fundamentals
-- [ ] Verilog basics
+- [x] VHDL basics
 - [ ] Testbenches & simulation
 - [ ] Finite State Machines
 - [ ] UART
